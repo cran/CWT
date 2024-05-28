@@ -1,0 +1,15 @@
+acf74e937266765ed730757dd5ac9178 *DESCRIPTION
+f471999c62cfa946a14b3343aa8a9b66 *NAMESPACE
+3f20daaac1f6eca3c28ae0152f3c22e0 *R/CWT-package.R
+bdbc9c71e0fe76e35744fa7f0e9e7649 *R/CWT.R
+ae18fc0b2c49113460c5437ac19bf1b1 *R/RcppExports.R
+cc1b6683ae7cd18ef0139100e754a77e *README.md
+7ba82100486d170fda029b89a828b277 *man/CWT-package.Rd
+b9697271744d715a5fb37d93986580ef *man/cwt.Rd
+d4a48f9c16e7f674b8533aeb5abf59eb *src/CWT.cpp
+a07bb35044e1db78270751205fc9afa4 *src/CWT.h
+c1e3b1d881af53f25ca10a228bb2c2f3 *src/Makevars
+c1e3b1d881af53f25ca10a228bb2c2f3 *src/Makevars.win
+4050f4cc8fe0dfbc9fc4342a806100e9 *src/RcppExports.cpp
+09ab729e3ee55250036a3c81d476b5af *tests/testthat.R
+cde7587294951ae11abe850bff33b0d4 *tests/testthat/test-cwt.R
